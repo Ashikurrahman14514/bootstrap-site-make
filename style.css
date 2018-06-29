@@ -1,0 +1,62 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+#first{
+    background-image: url(https://source.unsplash.com/random);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position:fixed;
+
+}
+.fa-twitter {
+font-size:30px;
+margin-right: 10px;
+margin-left: 5px;
+color: white;
+}
+.kkk{
+    color:green;
+}
+.j-1{
+    background-color: transparent;
+}
+.logo1{
+    font-size: 30px;
+}
+.lead{
+    margin-bottom: 200px;
+}
+.fa-github,.fa-slack,.fa-youtube,.fa-facebook{
+    color: rgb(164, 174, 182);
+    padding-right: 10px;
+}
+.fa-github:hover,
+.fa-slack:hover,
+.fa-youtube:hover,
+.fa-facebook:hover {
+    color: #ffff;
+    padding-right: 10px;
+}
+.hhh1{
+    font-size: 5em;
+    color: #7952B3;
+     margin-top: 84px;
+}
+.ppp1,.ppp2{
+    font-size: 1.25rem;
+        font-weight: 300;
+        margin-bottom:10px;
+        margin-top: 50px;
+}
+.img1{
+    width:454px;
+    margin-top: 150px;
+    float: left;
+    box-shadow: 0px 0px 79px -6px rgba(0, 0, 0, 0.75);
+    
+}
+
+.p55{
+    margin-top: 50px;
+}
